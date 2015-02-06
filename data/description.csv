@@ -1,5 +1,7 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+びん・新聞紙・ダンボール・紙パック・布類,,,,#27a047
+飲み物のかん・ペットボトル・雑誌・雑紙,,,,#08b925
+容器包装プラスチック類,,,,#13c4e1
+容器包装以外のプラスチック類,,,,#b479e2
+もえないごみ・有害ごみ・粗大ごみ,,,,#ba5ed5
+もえるごみ,,,,#ff6e59
